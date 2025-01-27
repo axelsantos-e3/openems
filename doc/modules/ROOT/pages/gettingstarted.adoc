@@ -55,7 +55,7 @@ Menu: btn:[Help] → btn:[Eclipse Marketplace...] → btn:[Find:] → enter btn:
 
 .. Configure Eclipse IDE to use JDK 21.
 +
-- In the Menu select btn:[Windows] → btn:[Preferences]
+- In the Menu select btn:[Window] → btn:[Preferences]
 - Select btn:[Java] - btn:[Installed JREs] in the navigation tree
 - Press the btn:[Add...] button
 - Keep btn:[Standard VM] selected and press btn:[Next >]
